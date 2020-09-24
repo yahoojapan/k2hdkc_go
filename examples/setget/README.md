@@ -1,0 +1,6 @@
+# setget
+
+```
+$ go build
+$ ./setget
+```
