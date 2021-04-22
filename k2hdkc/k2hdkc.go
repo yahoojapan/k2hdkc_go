@@ -23,7 +23,7 @@ package k2hdkc
 #include <stdio.h>
 static int dlopen_k2hdkc() {
   dlerror();
-  void* handler = dlopen("libk2hdkc.so.0", RTLD_LAZY);
+  void* handler = dlopen("libk2hdkc.so", RTLD_LAZY);
   if (handler == NULL) {
     char* error = dlerror();
     if (error != NULL) {
