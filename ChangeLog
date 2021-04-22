@@ -1,3 +1,9 @@
+k2hdkc_go (1.0.1) stable; urgency=low
+
+  *  Uses the unversioned library
+
+ -- Hirotaka Wakabayashi <hiwakaba@yahoo-corp.jp>  Thu, 22 Apr 2021 13:25:04 +0900
+
 k2hdkc_go (1.0.0) stable; urgency=low
 
   *  Initial commit
